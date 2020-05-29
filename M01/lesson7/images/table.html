@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table, th, td {
+  border: 1px solid black;
+  padding: 5px;
+}
+thead,
+tfoot {
+    background-color: green;
+}
+</style>
+</head>
+<body>
+
+<h1>The td colspan attribute</h1>
+
+<table>
+    <thead>
+        <tr>
+            <th rowspan="2">Book</th>
+            <th colspan="4">Sales</th>
+        </tr>
+        <tr>
+            <th>North</th>
+            <th>South</th>
+            <th>West</th>
+            <th>Total</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>January</td>
+            <td>$100</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>January</td>
+            <td>$100</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+    </tbody>
+    <tfoot>
+        <tr>
+            <td>Sales Total</td>
+            <td>$100</td>
+            <td>$100</td>
+            <td>$100</td>
+            <td>$100</td>
+        </tr>
+    </tfoot>
+</table>
+ 
+</body>
+</html>

@@ -1,0 +1,14 @@
+.d-block{display: block;}
+.w-100{width: 1000px;}
+.course{
+    float: left;
+    width: 100%;
+}
+.course-register{
+    float: left;
+    width: 30%;
+}
+.course-plan{
+    float: left;
+    width: left;
+}

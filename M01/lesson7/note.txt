@@ -1,0 +1,34 @@
+p, div, header, footer, section, nav:     block level elements
+
+span, img, b: inline elements
+
+
+chuyễn block level elements sang inline elements dùng <style> display: inline; </style>
+Và ngược lại.
+
+vertical-align: căng image theo chiều dọc.
+
+<figure>
+	<figcaption>Caption</figcaption>
+</figure>
+
+Thuộc tính đầy đủ của backgroud:https://www.w3schools.com/cssref/tryit.asp?filename=trycss_background
+
+web tự làm icon :photopea.com
+		 draw.io
+
+:nth-child(n){.....}
+	odd
+	even
+	n
+	link tham khao:https://www.w3schools.com/cssref/tryit.asp?filename=trycss3_nth-child
+
+colspan: gom nhóm các column lại 
+rowspan gom các row lại
+
+table{white-space:nowrap}     : không xuống dòng
+	link tham khao https://www.w3schools.com/cssref/pr_text_white-space.asp?fbclid=IwAR1gBgKPtGauwqai1pvvZsCVORzJC_Q4RkzbwSg3h5LQq0FNdfmkEI8xf0c
+
+overflow-x:auto none intial  inderit
+	-y:..    .     .        .. 
+overflow: auto auto

@@ -1,0 +1,23 @@
+body{
+    width: 100%;
+    background-color: white;
+    margin: 15px auto;
+    border: 2px solid black;
+}
+header{
+    border-bottom: 2px solid black;
+}
+main{
+    width: 66%;
+    height: 350px;
+    border-right: 2px solid #ef9c00;
+    float: left;
+}
+aside{
+    width: 33%;
+    float: left;
+}
+footer{
+    border-top: 2px solid black;
+    clear: both;
+}

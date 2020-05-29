@@ -1,0 +1,11 @@
+padding: 0 20px 2 20px = padding: 0 20px 
+margin: 0 20px 10px = margin: 0 20px 10px 20px
+margin: 15px auto 15px auto = margin: 15px auto
+
+
+position: relative/absolute/fixed/initial/inlecit
+	+top, right
+	+top, left
+	+bottom, right
+	+bottom, left
+z-index: thiết lập cho thành phần nào đó được ưu tiên

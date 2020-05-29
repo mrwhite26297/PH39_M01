@@ -1,0 +1,16 @@
+body{
+    font-size: 87.5%;
+    margin-left: 2em;
+    padding: 3px;
+    background-color: #ffffcc;
+}
+header{
+    margin-top: 10px;
+    padding-bottom: 3px;
+    border-bottom: 3px solid black;
+}
+h1{
+    font-size: 200%;
+    margin-bottom: 0;
+    color: #00ff89;
+}

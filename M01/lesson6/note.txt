@@ -1,0 +1,22 @@
+flex-wrap: wrap;    rớt xuống dòng
+flex-wrap: nowrap: vẫn ở trên một dòng
+
+display:grid;
+grid-template-rows: 100px 100px;
+grid-template-colums: 150px 150px 150px;
+
+link 
+https://www.w3schools.com/cssref/pr_grid-template-columns.asp
+https://www.w3schools.com/cssref/playit.asp?filename=playcss_grid-template-columns
+
+repeat(repeat, tracklist)
+
+minmax(min,max)
+
+justify ngang
+vertical: dọc
+
+col-lg
+col-md
+col-sm
+col-xs

@@ -1,0 +1,10 @@
+a{
+    color: red;
+}
+a:hover, a:focus{
+    text-decoration: none;
+    font-size: 150%;
+}
+a:visited{
+    color: blue;
+}

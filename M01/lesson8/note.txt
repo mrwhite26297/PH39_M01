@@ -1,0 +1,28 @@
+target
+disable:k cho phép người dùng nhập vào
+	khi submit thì input này sẽ k gởi data lên server
+readonly: chỉ đọc và không được phép nhập ký tự vào
+	............................gởi data lên server
+
+
+placeholder: gới ý cách nhập vào
+	link tham khảo https://www.w3schools.com/tags/tryit.asp?filename=tryhtml5_input_placeholder&fbclid=IwAR1LambIbFSjjoWaN-dHPH0slrI-cpeIVSqvwqCOdcN9ROHkHjowOlmARwI
+#input type="hidden"
+	link tham khảohttps://www.w3schools.com/tags/tryit.asp?filename=tryhtml5_input_type_hidden&fbclid=IwAR1d9jDqfRXiaOb9QuBRAVHPeZllx4qbzfcrVYgo2Qjna6Hw1_KAQT9C3bY
+#input maxlength
+	link tham khảo https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_input_maxlength&fbclid=IwAR2OMeII-ors3wW2z-jXIN1pGsnG9_bcQYDltABOw0JORu5TFJiaBsAj-Z4
+
+radio button, checkbox     + type checkbox/radio
+			     value
+			    checked
+
+dropdown lists
+			option
+			selected
+
+
+textarea cho phép nhập được nhiều dòng có placeholder
+
+label for thường sử dụng đi kèm với radio button checkbox  click vào text vẫn chọn
+
+inpu

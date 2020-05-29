@@ -1,0 +1,4 @@
+a: link và a:focus và a:hover dùng nhiều
+max-width:..
+min_width:..
+img { max-width:100%}

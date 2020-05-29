@@ -1,0 +1,13 @@
+ul{
+    display: flex;
+    list-style-type: none;
+    height: 95px;
+    background:silver;
+}
+a{text-decoration:none;}
+ul li a{
+    border: 1px solid black;
+    margin: 5px;
+}
+#ul3{align-items: center;}
+#home{align-self: flex-start;}

@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>pattern</title>
+</head>
+<body>
+    <form action="">
+    name : <input type="text" name="name" required autofocus><br>
+    zip    <input type="text" name="zip" required pattern="\d{5}(\-\d{4}?)" title="must be 99999 or 9999"><br>
+    phone: <input type="text" name="phone" required pattern="\d{3}[\-]\d{3}[\-]\d{4}" title="must be 999-999-9999"><br>
+    <input type="submit">
+    </form>
+</body>
+</html>
